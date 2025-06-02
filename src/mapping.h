@@ -2,7 +2,7 @@
 #ifndef MAPPING_H
 #define MAPPING_H
 
-#include <stdint.h>
+//#include <stdint.h>
 
 extern uint16_t loc2indProgByRow[32][48];
 
